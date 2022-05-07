@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Siyao Wang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "Lanzhou University"
   location         : "Lanzhou, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=AGiOxGIAAAAJ"
-  email            : "wangsiyao19"@lzu.edu.cn
+  email            : "wangsiyao19@lzu.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Siyao_Wang21"
   uri              : 
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ValentinoWang"
+  github           : "https://github.com/ValentinoWang"
   google_plus      :
   keybase          :
   instagram        :
