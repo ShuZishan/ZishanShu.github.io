@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Siyao Wang"
-description              : "Undergraduate in Cuiying honors Colledge in Mathematics @ Lanzhou University"
+description              : "Undergraduate of Cuiying honors Colledge in Mathematics @ Lanzhou University"
 repository               : "ValentinoWang/Siyao_Wang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Siyao Wang"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  location         : "Lanzhou, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
