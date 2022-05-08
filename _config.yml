@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Siyao Wang"
-description              : "Undergraduate in Cuiying honors Colledge in Mathematics @ Lanzhou University"
-repository               : "ValentinoWang/Siyao_Wang.github.io"
+description              : "Undergraduate of Cuiying honors Colledge in Mathematics @ Lanzhou University"
+repository               : "https://github.com/ValentinoWang/Siyao_Wang-github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,21 +23,21 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Siyao Wang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  bio              : "Do something different"
+  location         : "Lanzhou, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  googlescholar    : "https://scholar.google.com/citations?user=AGiOxGIAAAAJ"
+  email            : "wangsiyao19@lzu.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Siyao_Wang21"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/ValentinoWang"
   google_plus      :
   keybase          :
   instagram        :
