@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Siyao Wang"
-description              : "Undergraduate of Cuiying honors Colledge in Mathematics @ Lanzhou University"
-repository               : "https://github.com/ValentinoWang/Siyao_Wang-github.io"
+title                    : "Zishan Shu"
+description              : "Undergraduate of Science Colledge @ Minzu University of China"
+repository               : "https://github.com/ShuZishan/ZishanShu.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Siyao Wang"
+  name             : "Zishan Shu"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Do something different"
-  location         : "Lanzhou, China"
+  location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=AGiOxGIAAAAJ"
-  email            : "wangsiyao19@lzu.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Siyao_Wang21"
+  googlescholar    : #"https://scholar.google.com/citations?user=AGiOxGIAAAAJ"
+  email            : "zishanshu0601@163.com"
+  researchgate     :# "https://www.researchgate.net/profile/Siyao_Wang21"
   uri              : 
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/ValentinoWang"
+  github           : "https://github.com/ShuZishan"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0000-0002-2149-7517"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
